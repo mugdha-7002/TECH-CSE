@@ -1,7 +1,5 @@
-# TECH-CSE
+# TECH-CSE Summer Project
 
-- This repository is for Tech CSE Projects only.
+- Upload your project proposal.
 
-- You are requested not to share this repository outside IETE.
-
-- Please create branches with your name and upload everything related to the summer project inside that.
+- Keep updating your progress regularly.
